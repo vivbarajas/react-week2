@@ -1,0 +1,13 @@
+h2 {
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+    
+}
+
+p {
+    text-decoration: bold;
+    color: black;
+    background-color: pink;
+    text-transform: capitalize;
+}

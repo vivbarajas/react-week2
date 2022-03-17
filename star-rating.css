@@ -1,0 +1,32 @@
+#stars{
+    display:flex;
+    
+    
+}
+
+#stars.disabled{
+    pointer-events: none;
+}
+
+#stars{
+    opacity: 1000%;
+    cursor: pointer;
+}
+
+#stars:hover a{
+    opacity: 100%;
+}
+
+#stars a:hover {
+    opacity: 100%;
+}
+
+#stars a:hover ~ a {
+    opacity: 10%;
+}
+
+
+#stars a.active {
+    opacity: 50%;
+}
+

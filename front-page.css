@@ -1,0 +1,27 @@
+h1 {
+    color: white;
+    border: dotted;
+    fill-opacity: black;
+    border-width: 10px;
+    border-color: pink;
+    font: bolder;
+    text-align-last:center;
+}
+
+p{
+   color: black;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-style: italic;
+   
+   text-align: center;
+   
+
+}
+
+body {
+    background:url('https://media.istockphoto.com/photos/taupe-abstract-grungy-decorative-texture-picture-id685511810?k=20&m=685511810&s=612x612&w=0&h=wsapNKgsSrKPACPVJTvQm9xdJi6WyDE4xaGcrs-XHa8=');
+}
+
+img {
+    align-items: center;
+}
